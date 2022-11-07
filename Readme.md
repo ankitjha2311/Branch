@@ -1,12 +1,12 @@
 # Branch is a version control system
 
-## simple workflow for commits
+## Simple workflow for commits
 
 To manage what modifications to commit, track or untrack files.
 By default, changes to tracked files are committed, but flags
 make it simple to alter the list of files that are committed.
 
-## separate branches
+## Separate branches
 
 Branches contain your working modifications so you can transition
 between them without worrying about incompatible uncommitted changes.
